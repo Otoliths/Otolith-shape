@@ -47,3 +47,6 @@ Interaction <- MCC(s.auto ,weight=T)
 Interaction$interact
 s.auto$frame
 
+#result
+rmarkdown::render("MRT.Morphometrics.R",
+                 "pdf_document")
