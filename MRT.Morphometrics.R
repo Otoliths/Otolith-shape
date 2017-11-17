@@ -4,7 +4,7 @@ library(mvpart)
 library(MVPARTwrap)
 library(FactoMineR)
 library(MASS)
-source("D:\\Project\\Data\\MRTG.R")
+source("D:\\Project\\Data\\MRTG.r")
 tt=read.csv("D:\\Project\\Data\\Morphometrics.csv",
             header = T)
 s.auto <- mvpart(data.matrix(tt[,4:13])~Average.river.gradient+Altitude+Annual.average.temperature+Latitude,tt,margin=0.1,cp=0,xv="pick",xval = nrow(tt),xvmult = 100,which = 4)
@@ -47,6 +47,4 @@ Interaction <- MCC(s.auto ,weight=T)
 Interaction$interact
 s.auto$frame
 
-#result
-rmarkdown::render("MRT.Morphometrics.R",
-                 "pdf_document")
+
