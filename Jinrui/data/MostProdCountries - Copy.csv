@@ -1,0 +1,41 @@
+Country  ,Articles,code,collaboration,Documents
+United States,758,US,SCP,635
+China    ,428,CN,SCP,288
+Spain         ,196,EA,SCP,129
+Germany      ,166,DE,SCP,87
+France       ,152,FR,SCP,81
+Canada       ,130,CA,SCP,95
+England       ,122,GB,SCP,61
+Australia,107,AT,SCP,83
+Brazil        ,101,BR,SCP,72
+India         ,75,IN,SCP,65
+Italy        ,66,IT,SCP,41
+Belgium      ,58,BE,SCP,24
+Iran         ,47,IR,SCP,32
+Switzerland  ,44,CH,SCP,24
+Argentina,34,AR,SCP,27
+Mexico       ,34,MX,SCP,22
+Netherlands,34,NL,SCP,11
+Turkey       ,34,TR,SCP,32
+Czech Repubic,31,CZ,SCP,28
+Japan         ,29,JP,SCP,16
+United States,758,US,MCP,123
+China    ,428,CN,MCP,140
+Spain         ,196,EA,MCP,67
+Germany      ,166,DE,MCP,79
+France       ,152,FR,MCP,71
+Canada       ,130,CA,MCP,35
+England       ,122,GB,MCP,61
+Australia,107,AT,MCP,24
+Brazil        ,101,BR,MCP,29
+India         ,75,IN,MCP,10
+Italy        ,66,IT,MCP,25
+Belgium      ,58,BE,MCP,34
+Iran         ,47,IR,MCP,15
+Switzerland  ,44,CH,MCP,20
+Argentina,34,AR,MCP,7
+Mexico       ,34,MX,MCP,12
+Netherlands,34,NL,MCP,23
+Turkey       ,34,TR,MCP,2
+Czech Repubic,31,CZ,MCP,3
+Japan         ,29,JP,MCP,13

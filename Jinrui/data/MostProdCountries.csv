@@ -1,0 +1,21 @@
+Country  ,Articles,code,Collaboration,Documents
+United States,758,US,SCP,621
+China,428,CN,SCP,284
+Spain,196,EA,SCP,128
+Germany,166,DE,SCP,87
+France,152,FR,SCP,81
+Canada,130,CA,SCP,96
+England,122,GB,SCP,63
+Australia,107,AT,SCP,85
+Brazil,101,BR,SCP,70
+India,75,IN,SCP,66
+United States,758,US,MCP,139
+China,428,CN,MCP,139
+Spain,196,EA,MCP,67
+Germany,166,DE,MCP,78
+France,152,FR,MCP,70
+Canada,130,CA,MCP,35
+England,122,GB,MCP,58
+Australia,107,AT,MCP,23
+Brazil,101,BR,MCP,26
+India,75,IN,MCP,9

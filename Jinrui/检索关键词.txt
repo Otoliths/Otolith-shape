@@ -1,0 +1,13 @@
+Scopus
+( TITLE-ABS-KEY ( soil  AND erosi* )  AND  TITLE-ABS-KEY ( soil  AND organic  AND carbon* ) )  AND  PUBYEAR  <  2018 
+records=2695
+
+
+WOS
+TS= (soil organic carbon* AND soil erosi*) 
+索引=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC 时间跨度=1900-2017
+records=3174
+
+TS= (soil organic carbon* AND (soil erosion* OR Soil denudation*))
+索引=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC 时间跨度=1900-2017
+records=3162

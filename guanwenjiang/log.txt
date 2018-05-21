@@ -1,0 +1,37 @@
+display(log)
+check(D:/Documents/R data/guanwenjiang/example1.bug.txt)
+model is syntactically correct
+data(D:/Documents/R data/guanwenjiang/data.txt)
+data loaded
+compile(1)
+model compiled
+inits(1,D:/Documents/R data/guanwenjiang/inits1.txt)
+undefined variable
+gen.inits()
+shape parameter (r) of gamma tau.y too small -- cannot sample
+thin.updater(1)
+update(1000)
+command #Bugs:update cannot be executed (is greyed out)
+set(alpha)
+command #Bugs:set cannot be executed (is greyed out)
+set(beta)
+command #Bugs:set cannot be executed (is greyed out)
+set(tay.y)
+command #Bugs:set cannot be executed (is greyed out)
+set(deviance)
+command #Bugs:set cannot be executed (is greyed out)
+dic.set()
+command #Bugs:dic.set cannot be executed (is greyed out)
+update(4000)
+command #Bugs:update cannot be executed (is greyed out)
+coda(*,D:/Documents/R data/guanwenjiang/coda)
+command #Bugs:coda cannot be executed (is greyed out)
+stats(*)
+command #Bugs:stats cannot be executed (is greyed out)
+dic.stats()
+
+DIC
+history(*,D:/Documents/R data/guanwenjiang/history.odc)
+command #Bugs:history cannot be executed (is greyed out)
+save(D:/Documents/R data/guanwenjiang/log.odc)
+save(D:/Documents/R data/guanwenjiang/log.txt)

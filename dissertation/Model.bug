@@ -1,0 +1,11 @@
+model { for( i in 1 :Nobs)
+                  { Length[i] ~ dnorm(mu[i],tau)
+                   mu[i]<-Loo*(1-exp(-K*(Age[i]-To)))
+                  }
+##Setting our informative priors for K and Loo as estimated above
+    Loo ~ dnorm(24.9,0.055)
+    K ~ dnorm (0.368,22.3)
+########Using an uniformative prior for To and variability at the individual level
+    tau ~ dgamma(0.001,0.001)
+    To ~ dnorm (0,0.0001)
+      }
