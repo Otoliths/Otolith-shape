@@ -1,6 +1,0 @@
-Bayesian analysis of length-weight parameters
-This routine will conduct a Bayesian (hierarchical) analysis of the selected data to obtain posterior distributions for the parameters a and b, the measurement variance of a and b, and the measurement covariance of a, b. The routine runs in R and makes use of the JAGS sampler. The analysis may take several minutes, depending on the amount of data and the load on the server.
-
-Alternatively, you can download the R-code and run the analysis locally. You will need to have R and JAGS installed, and you need the R libraries abind, coda, rjags, r2jags and R2WinBugs. Copy the downloaded R-code and data into your R working directory.
-
-Based on the body-shape analysis of 5150 LWR studies (Froese et al., in prep), the following priors will be used in the analysis (change if needed):
